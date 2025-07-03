@@ -48,4 +48,4 @@ Here are some of my hands-on projects that showcase my learning and skills:
 ### 💡 Fun Fact:
 I enjoy tinkering with security tools and exploring new tech in my spare time.
 
-![Footer](https://www.google.com/imgres?q=security%20footer&imgurl=https%3A%2F%2Fatlantsecurity.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fcybersecurity-law-footer1-1024x351.jpg&imgrefurl=https%3A%2F%2Fatlantsecurity.com%2Fblog%2Fcybersecurity-for-law-firms%2F&docid=LircGfaLk7CWCM&tbnid=h--9LFOo8rGa2M&vet=12ahUKEwiVxZH306COAxVagP0HHRrWNuMQM3oECFsQAA..i&w=1024&h=351&hcb=2&ved=2ahUKEwiVxZH306COAxVagP0HHRrWNuMQM3oECFsQAA)
+<!--[Footer](https://github.com/your-username/your-repo/assets/footer.png))-->

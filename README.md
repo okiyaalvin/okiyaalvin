@@ -1,48 +1,51 @@
-<h1 align="center">👋 Hi, I'm Alvin Okiya</h1>
+![Welcome Banner](https://github.com/okiyaalvin/your-repo/assets/banner.png)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=flat-square&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-brightgreen?style=flat-square&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/SOC-Analyst-orange?style=flat-square&logo=siemens" />
-</p>
+# 👋 Hi there, I'm Alvin Okiya Andaye!
+
+Cybersecurity and IT Support Enthusiast passionate about securing digital systems and solving technical challenges.
 
 ---
 
-## 🧠 About Me
-
-I'm a passionate and results-driven **Cybersecurity Analyst** with experience in SOC operations, penetration testing, SIEM monitoring, and threat detection.
-
-🔐 I specialize in:
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Security Event Monitoring (Wazuh SIEM, Sysmon)
-- Scripting & Automation (Python, Bash)
-- DNS, Network Recon, & Log Analysis
-- Cloud Security (AWS, Azure)
-- Incident Triage & Technical Reporting
-
-I enjoy working in controlled lab environments, building projects that emulate real-world threats, and helping organizations improve their security posture.
+## 🤖 About Me
+- 👨‍💻 IT & Cybersecurity Analyst based in Nairobi, Kenya
+- 🔐 Currently conducting CIS Controls Assessment with CIS CSAT Tool
+- 🏢 Passionate about system security, threat monitoring, and endpoint protection
+- 🛠️ Always learning and working on projects in cybersecurity and network administration
 
 ---
 
-## 🔭 Latest Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **Web Shell Deployment (DVWA)** | Exploited file upload vuln to gain RCE via PHP shell | Parrot OS, VirtualBox |
-| **SIEM Lab with Wazuh** | Deployed Wazuh + Sysmon to monitor traffic across Windows/Kali | Wazuh, Ubuntu, Sysmon |
-| **File Encryption Tool (v2)** | Created cross-platform encryption tool w/ authentication | Python, Fernet |
-| **Wireshark Network Lab** | Analyzed HTTP, DNS, ICMP, and FTP traffic in simulated environments | Wireshark, Packet Tracer |
-| **3CX vs Cidax POC** | Performed feature comparison & gave client feedback | 3CX, Cidax |
-
-📁 View more in the [Projects](#-projects) section below.
+## 🔹 Skills
+- 💻 IT Support & Troubleshooting (Windows/Linux)
+- 🔐 Security Monitoring & SIEM (Wazuh, Sysmon)
+- 🌐 Network Analysis & Reconnaissance (Wireshark, Nmap, Spiderfoot)
+- 📡 Vulnerability Assessment (OWASP ZAP, OpenVAS)
+- 🤖 MFA & Active Directory Basics
+- 📝 Technical Documentation & Ticketing (Odoo)
 
 ---
 
-## 🧰 Tools & Technologies
+## 📌 Projects
 
-```bash
-💻  Linux | Windows | Ubuntu | Kali
-🧪  Wazuh | Metasploit | ZAP | OpenVAS | Wireshark | Nmap | Spiderfoot
-☁️  AWS | Azure | Sysmon | VirtualBox
-💻  Python | Bash | PowerShell
-📋  ISO 27001 | GDPR | CIS Controls
+Here are some of my hands-on projects that showcase my learning and skills:
+
+| Project Title | Description | Preview |
+| ------------- | ----------- | ------- |
+| **SIEM Deployment & Monitoring** | Deployed Wazuh SIEM, monitored endpoints, and created custom alerts | <!--[SIEM Lab](https://github.com/your-username/your-repo/assets/siem-lab.png)--> |
+| **Web Shell Deployment** | Exploited file upload vulnerability on DVWA to gain remote access | <!--[Web Shell](https://github.com/your-username/your-repo/assets/web-shell.png)--> |
+| **VLANs & Secure Switching** | Configured VLANs and applied switch security measures in Packet Tracer | <!--[VLAN Lab](https://github.com/your-username/your-repo/assets/vlan-lab.png)--> |
+
+> ✅ [View More Projects Here](https://github.com/your-username?tab=repositories)
+
+---
+
+## 🌐 Connect with Me
+- 👀 [LinkedIn](https://www.linkedin.com/in/alvinokiya/)
+- 💻 [GitHub](https://github.com/okiyaalvin/)
+- 📧 okiyaalvin2@gmail.com
+
+---
+
+### 💡 Fun Fact:
+I enjoy tinkering with security tools and exploring new tech in my spare time.
+
+![Footer](https://github.com/your-username/your-repo/assets/footer.png)

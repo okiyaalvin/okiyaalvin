@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate and results-driven **Cybersecurity Analyst** based in **Nairobi, Kenya**, with experience in SOC operations, penetration testing, SIEM monitoring, and threat detection.
+I'm a passionate and results-driven **Cybersecurity Analyst** with experience in SOC operations, penetration testing, SIEM monitoring, and threat detection.
 
 🔐 I specialize in:
 - Vulnerability Assessment & Penetration Testing (VAPT)

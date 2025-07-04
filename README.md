@@ -34,8 +34,7 @@ Here are some of my hands-on projects that showcase my learning and skills:
 | **Web Shell Deployment** | Exploited file upload vulnerability on DVWA to gain remote access | <!--[Web Shell](https://github.com/your-username/your-repo/assets/web-shell.png)--> |
 | **VLANs & Secure Switching** | Configured VLANs and applied switch security measures in Packet Tracer | <!--[VLAN Lab](https://github.com/your-username/your-repo/assets/vlan-lab.png)--> |
 
-> ✅ [View More Projects Here](https://github.com/okiyaalvin/cybersecurity-portforlio/blob/main/README.md)
-
+> ✅ [View More Projects Here](https://github.com/okiyaalvin/cybersecurity-portforlio/blob/main/README.md) and [Educative posts](https://okiyaalvin.github.io/)
 ---
 
 ## 🌐 Connect with Me
